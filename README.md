@@ -34,7 +34,8 @@ The program is trained on a labeled dataset of sentences, where each sentence is
 
 ## Usage
 
-[Live](https://preposition.djharshit.app)
+<a href="https://preposition.djharshit.app" target="_blank"><img src="https://www.transparentpng.com/thumb/click-here-button/Gaezhb-click-here-button-images-png.png" height=100 width=100></img></a>
+
 The program will analyze the sentences and output the detected preposition errors along with their suggested corrections.
 
 ## Example
@@ -59,7 +60,6 @@ This program can be deployed on Google Cloud Platform (GCP) to make it accessibl
 2. Create a deployment package by including the program files and dependencies.
 3. Deploy the program on GCP using either Cloud Functions or App Engine.
 4. Configure the necessary endpoints and permissions for accessing the deployed program.
-
 
 ## Acknowledgments
 
